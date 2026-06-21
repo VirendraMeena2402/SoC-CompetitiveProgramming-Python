@@ -6,10 +6,10 @@ Midterm checkpoint submission containing all assignments completed so far, along
 
 | Week | Topic Focus | Colab Link |
 |------|-------------|------------|
-| Week 1 | Python Basics & Input Handling | [Open in Colab](PASTE_WEEK_1_LINK_HERE) |
-| Week 2 | Data Structures (Dict, Set, List, Tuple) | [Open in Colab](PASTE_WEEK_2_LINK_HERE) |
-| Week 3 | Searching, Sorting & Recursion | [Open in Colab](PASTE_WEEK_3_LINK_HERE) |
-| Week 4 | Graph Algorithms | [Open in Colab](PASTE_WEEK_4_LINK_HERE) |
+| Week 1 | Python Basics & Input Handling | [Open in Colab](https://colab.research.google.com/drive/1tpoMkuRkWqyH-TXBy5NwQJYHi-Uf2SKB?usp=sharing) |
+| Week 2 | Data Structures (Dict, Set, List, Tuple) | [Open in Colab](https://colab.research.google.com/drive/1tKuOGpsBzqUN1pUG-D2zjIJlt-97wIIc?usp=sharing) |
+| Week 3 | Searching, Sorting & Recursion | [Open in Colab](https://colab.research.google.com/drive/1oxFmj4xc8DYrj4BtktEJNCyzy6oRx5ym?usp=sharing) |
+| Week 4 | Graph Algorithms | [Open in Colab](https://colab.research.google.com/drive/15t5LoOUQhCFDDmZTbJyXywexnQDsBbrN?usp=sharing) |
 
 ---
 
